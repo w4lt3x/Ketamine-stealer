@@ -2,7 +2,7 @@ Ketamine stealer is python based small stealer
 
 https://www.virustotal.com/gui/file/825e15077c97914701d34a027a330a289039a34b8db1d3a2995f53668ba08276?nocache=1
 
-todo list 
+todo list : 
         Adding obfuscation
         Adding token system
         Adding discord injection
