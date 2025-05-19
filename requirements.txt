@@ -1,0 +1,9 @@
+pycryptodome>=3.15.0
+pypiwin32
+pillow
+opencv-python
+psutil
+requests
+colorama
+pystyle
+pyinstaller
